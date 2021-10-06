@@ -58,10 +58,10 @@ img {
     background-color: lightgrey;
     border-radius: 10px;
     &.up {
-      background: linear-gradient(to bottom, grey 50%, lightgrey 50%);
+      background: linear-gradient(to top, grey 50%, lightgrey 50%);
     }
     &.down {
-      background: linear-gradient(to top, grey 50%, lightgrey 50%);
+      background: linear-gradient(to bottom, grey 50%, lightgrey 50%);
     }
 }
 
